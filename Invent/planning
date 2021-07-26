@@ -1,0 +1,7 @@
+
+User Auth all API
+User can create, update, get list of items whose quant is 0.
+List API having all items sorting apha order, accoding to quantity.
+Image optional of item.
+
+Genrate QR code...item id.
